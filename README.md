@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working with ☕, 🐍 lover.
+Currently working with ☕ - 🐍 lover.
 
 💻 Programming
 👾 Gaming
