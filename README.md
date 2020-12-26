@@ -4,7 +4,7 @@ Currently working with ☕ - 🐍 lover.
 
 💻 Programming
 👾 Gaming
-🍻 Beer with friends
+🍕 Pizza and 🍻 Beer with friends
 🎸 Guitars and heavy metal
 
 🌌🌃🌌
