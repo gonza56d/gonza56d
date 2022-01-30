@@ -1,1 +1,5 @@
+# Python developer at intive :)
 
+# 🎸🎶
+# 🚵🏻‍♂🧠
+# 🍸🌃
