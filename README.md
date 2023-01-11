@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccff00&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Gonza!;I'm+a+Backend+Developer+specialized+in+Python+🐍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccff00&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Gonza!;I'm+a+Backend+Developer+specialized+in+\n+Python+🐍)](https://git.io/typing-svg)
 <h1 align="center"></h1>
 
 - 🔭 I’m currently working on **a wallet backend which is microservices oriented.**
