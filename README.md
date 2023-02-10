@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **a wallet backend which is microservices oriented.**
 
-- 🌱 I’m currently learning **more about devops.**
-
-- 💬 Ask me about **python and django.**
-
 - 🐈 I have a cat daughter called Zira. ❤
 
 - 🎸 I like to play guitar!
